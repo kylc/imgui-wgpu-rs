@@ -27,6 +27,9 @@ Per Keep a Changelog there are 6 main categories of changes:
 
 ## Unreleased
 
+#### Fixed
+- Internal: Do not render draw commands that fall outside the framebuffer
+
 ## v0.16.0
 
 Released 2021-07-14
